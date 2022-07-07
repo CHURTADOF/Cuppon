@@ -1,0 +1,52 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    margin: 0;
+}
+
+.form-control {
+    width: 70%;
+}
+
+.btn {
+    width: 120px;
+}
+
+.margen-bottom {
+    margin-bottom: 1rem;
+}
+
+.texto-gris {
+    font-weight: 300;
+    color: #707070;
+}
+
+.card-text .roboto-500 {
+    font-weight: 500;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    font-weight: 300;
+    color: rgb(255, 255, 255);
+}
+
+.card-img,
+.card-img-bottom,
+.card-img-top {
+    border: 10px solid #fff;
+    border-radius: 12px;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+#navmenu-color {
+    background: #28a745;
+}
+
+#content-color {
+    background: #28a745;
+}
